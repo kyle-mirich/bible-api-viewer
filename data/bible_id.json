@@ -1,0 +1,1762 @@
+{
+    "The New Testament in Ahirani language": {
+        "id": "472735b48a27b402-01",
+        "description": "The New Testament in Ahirani language, 2020",
+        "language": "Ahirani",
+        "script": "Devanagari",
+        "namelocal": "\u092a\u094d\u0930\u0947\u092e \u0938\u0902\u0926\u0947\u0936",
+        "abbreviation": "NTAii20"
+    },
+    "Nend Portions - Mark": {
+        "id": "0c2ff0a5c8b9069c-01",
+        "description": null,
+        "language": "Nend",
+        "script": "Latin",
+        "namelocal": "MAK Yak\u014b Oh\u0268rand Ya Imb\u0268r Mak\u0268v Mpamar",
+        "abbreviation": "NendNP03"
+    },
+    "Biblica\u00ae Open New Arabic Version 2012": {
+        "id": "b17e246951402e50-01",
+        "description": "Holy Bible",
+        "language": "Arabic, Standard",
+        "script": "Arabic",
+        "namelocal": "\u0643\u062a\u0627\u0628 \u0627\u0644\u062d\u064a\u0627\u0629 \u0645\u062c\u0627\u0646\u0649",
+        "abbreviation": "ONAV"
+    },
+    "Arapaho Luke": {
+        "id": "b7ad344da9c39262-01",
+        "description": "common",
+        "language": "Arapaho",
+        "script": "Latin",
+        "namelocal": "Hethadenee waunauyaunee vadan Luke Vanen\u0101na",
+        "abbreviation": "arp"
+    },
+    "Indian Revised Version (IRV) Assamese - 2019": {
+        "id": "d199679f805f5b29-01",
+        "description": "Indian Revised Version Holy Bible in the Assameese language of India",
+        "language": "Assamese",
+        "script": "Bengali",
+        "namelocal": "\u0987\u09a3\u09cd\u09a1\u09bf\u09df\u09be\u09a8 \u09f0\u09bf\u09ad\u09be\u0987\u099a \u09ad\u09be\u09f0\u099a\u09a8 (IRV) \u0986\u099a\u09be\u09ae\u09bf\u099a - 2019",
+        "abbreviation": "IRVAsm"
+    },
+    "The New Testament in Bodo Parja Language": {
+        "id": "7b1975ae4d11d931-01",
+        "description": "The New Testament in Bodo Parja Language 2020",
+        "language": "Bodo Parja",
+        "script": "Oriya",
+        "namelocal": "\u0b38\u0b03\u0b30\u0b4d\u0b17\u0b3e\u0b30\u0b4d\u200c \u0b2c\u0b3e\u0b1f\u0b4d\u200c \u0b28\u0b03\u0b09\u0b01\u0b06 \u0b28\u0b3f\u0b05\u0b2e\u0b4d\u200c",
+        "abbreviation": "NTBPL20"
+    },
+    "Belarusian New Testament and Books of Old Testament": {
+        "id": "17c44f6c89de00db-01",
+        "description": "Belarusian New Testament and Books of Old Testament",
+        "language": "Belarusan",
+        "script": "Cyrillic",
+        "namelocal": "\u041d\u043e\u0432\u044b \u0417\u0430\u043f\u0430\u0432\u0435\u0442 \u0456 \u041a\u043d\u0456\u0433\u0456 \u0421\u0442\u0430\u0440\u043e\u0433\u0430 \u0417\u0430\u043f\u0430\u0432\u0435\u0442\u0443",
+        "abbreviation": "NTPrv"
+    },
+    "Bible (A.Bokun translation)": {
+        "id": "17c44f6c89de00db-02",
+        "description": "Bible (A.Bokun translation)",
+        "language": "Belarusan",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0456\u0431\u043b\u0456\u044f (\u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434 \u0410.\u0411\u043e\u043a\u0443\u043d\u0430)",
+        "abbreviation": "BBB"
+    },
+    "Bible (V. Semukha translation)": {
+        "id": "b52bc8b7af3bdc6f-03",
+        "description": "Synodal",
+        "language": "Belarusian",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0456\u0431\u043b\u0456\u044f (\u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434 \u0412. \u0421\u0451\u043c\u0443\u0445\u0456)",
+        "abbreviation": "BBL"
+    },
+    "Biblica\u00ae Open Bengali Contemporary Version 2019": {
+        "id": "efd8a351a07d4264-01",
+        "description": "Holy Bible",
+        "language": "Bengali",
+        "script": "Bengali",
+        "namelocal": "Biblica\u00ae \u09ae\u09c1\u0995\u09cd\u09a4\u09ad\u09be\u09ac\u09c7 \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09ae\u0995\u09be\u09b2\u09c0\u09a8 \u09b8\u0982\u09b8\u09cd\u0995\u09b0\u09a3\u09c7\u09b0",
+        "abbreviation": "BCV"
+    },
+    "Indian Revised Version (IRV) Bengali": {
+        "id": "4c3eda00cd317568-01",
+        "description": "Protestant",
+        "language": "Bengali",
+        "script": "Bengali",
+        "namelocal": "\u0987\u09a8\u09cd\u09a1\u09bf\u09df\u09be\u09a8 \u09b0\u09bf\u09ad\u09be\u0987\u099c\u09a1 \u09ad\u09be\u09b0\u09cd\u09b8\u09a8 (IRV) - \u09ac\u09c7\u0999\u09cd\u0997\u09b2\u09c0",
+        "abbreviation": "IRVBen"
+    },
+    "Bedamuni Bible": {
+        "id": "55bab459b716348c-01",
+        "description": "common",
+        "language": "Beami",
+        "script": "Latin",
+        "namelocal": "GODE EA SIA: IDA:IWANE GALA",
+        "abbreviation": "beo"
+    },
+    "Baghlayani": {
+        "id": "e051b4f945d52400-02",
+        "description": "New Testament in Baghlayani",
+        "language": "Pahari, Mahasu",
+        "script": "Devanagari",
+        "namelocal": "\u092c\u0917\u093c\u0932\u094d\u092f\u093e\u0923\u0940",
+        "abbreviation": "BGHNT"
+    },
+    "Haryanvi": {
+        "id": "2ef130d3485d3fe4-01",
+        "description": "Bible in Haryanvi Language",
+        "language": "Haryanvi",
+        "script": "Devanagari",
+        "namelocal": "\u0939\u0930\u093f\u092f\u093e\u0923\u0935\u0940",
+        "abbreviation": "BGCNT"
+    },
+    "Bugun New Testament": {
+        "id": "5a19af0cfc57ff3a-01",
+        "description": "Bugun New Testament",
+        "language": "Bugun",
+        "script": "Latin",
+        "namelocal": "Iwo Surua Mua Wie Pha Bible",
+        "abbreviation": "BUG"
+    },
+    "Bhadrawahi New Testament": {
+        "id": "c2d042a913068a25-01",
+        "description": "New Testament in Bhadrawahi",
+        "language": "Bhadrawahi",
+        "script": "Devanagari",
+        "namelocal": "\u092d\u0921\u094d\u0932\u093e\u0908 \u0928\u0902\u0935\u094d\u0935\u094b\u0902 \u0928\u093f\u092f\u092e",
+        "abbreviation": "BHD-NT"
+    },
+    "Bhattiyali NT": {
+        "id": "63d47dec7790e1cf-01",
+        "description": "Bhattiyali New Testament",
+        "language": "Bhattiyali",
+        "script": "Devanagari",
+        "namelocal": "\u092d\u091f\u093f\u092f\u093e\u0932\u0940 \u0928\u094b\u0906 \u0928\u093f\u092f\u092e",
+        "abbreviation": "BHTNT"
+    },
+    "Blackfoot Matthew": {
+        "id": "6855dabfcb711cc2-01",
+        "description": "common",
+        "language": "Siksika",
+        "script": "Latin",
+        "namelocal": "\u014eKHS' I TS\u012cN IK S\u012cN NI ST. MATTHEW OT S\u012cN AI PI.",
+        "abbreviation": "bla1890"
+    },
+    "The New Testament in Paliya Language": {
+        "id": "8b4c1b146ad6508a-01",
+        "description": "The New Testament in Paliya Language,2020",
+        "language": "Bareli, Palya",
+        "script": "Devanagari",
+        "namelocal": "\u092d\u0917\u0935\u093e\u0928 \u0928\u093e \u0916\u0930\u0932\u093e \u092c\u094b\u0932, \u0928\u0935\u0932\u094b \u0928\u0947\u092e",
+        "abbreviation": "NTPPt2020"
+    },
+    "God's Holy Book": {
+        "id": "71d2075d284c4eae-01",
+        "description": "The Law books, the Gospel and the Letters of the Apostles in Baga",
+        "language": "Baga Sitemu",
+        "script": "Latin",
+        "namelocal": "Kitabu ka Kanu",
+        "abbreviation": "Baga"
+    },
+    "The New Testament in Borna/Shinasha Language": {
+        "id": "44e37abe1fa39aab-01",
+        "description": "The New Testament in Borna/Shinasha Language",
+        "language": "Borna",
+        "script": "Latin",
+        "namelocal": "Handr Taara",
+        "abbreviation": "BrnNTLtn"
+    },
+    "Biblica\u00ae Open Czech Living New Testament": {
+        "id": "c0209b58481727a2-01",
+        "description": "New Testament",
+        "language": "Czech",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Open Slovo na cestu",
+        "abbreviation": "OSNC"
+    },
+    "Czech Kralick\u00e1 Bible 1613": {
+        "id": "c61908161b077c4c-01",
+        "description": "common",
+        "language": "Czech",
+        "script": "Latin",
+        "namelocal": "Bible Kralick\u00e1 1613",
+        "abbreviation": "ces1613"
+    },
+    "Biblica\u00ae Open Kurdi Sorani Standard Version 2020": {
+        "id": "9ab28a81b9c4587d-01",
+        "description": "Protestant Bible",
+        "language": "Kurdish, Central",
+        "script": "Arabic",
+        "namelocal": "\u0628\u0628\u0644\u06cc\u06a9\u0627 \u2013 \u0648\u06d5\u0634\u0627\u0646\u06cc \u0628\u06ce\u0628\u06d5\u0631\u0627\u0645\u0628\u06d5\u0631\u06cc \u06a9\u0648\u0631\u062f\u06cc\u06cc \u0633\u06c6\u0631\u0627\u0646\u06cc\u06cc \u0633\u062a\u0627\u0646\u062f\u06d5\u0631",
+        "abbreviation": "OKSS"
+    },
+    "\u514d\u8d39\u7684\u6613\u8bfb\u5723\u7ecf Free Easy-to-read Bible": {
+        "id": "04fb2bec0d582d1f-01",
+        "description": null,
+        "language": "Chinese, Mandarin",
+        "script": "Han (Simplified variant)",
+        "namelocal": "\u514d\u8d39\u7684\u6613\u8bfb\u5723\u7ecf Free Easy-to-read Bible",
+        "abbreviation": "FEB"
+    },
+    "Kwere Bible": {
+        "id": "dca01eb41e39d25d-02",
+        "description": "NT & Pentateuch",
+        "language": "Kwere",
+        "script": "Latin",
+        "namelocal": "Biblia Ching'hwele",
+        "abbreviation": "Kwere"
+    },
+    "The New Testament in Kwere": {
+        "id": "dca01eb41e39d25d-01",
+        "description": "New Testament",
+        "language": "Kwere",
+        "script": "Latin",
+        "namelocal": "Lagano da Sambi kwa Wanhu Wose",
+        "abbreviation": "Kwere"
+    },
+    "New Testament in Dai": {
+        "id": "b84c4908b73961ba-01",
+        "description": "New Testament in Dai",
+        "language": "Chin, Daai",
+        "script": "Latin",
+        "namelocal": "Dai Cangcim Kthai",
+        "abbreviation": "DNT"
+    },
+    "Elberfelder Translation (Version of bibelkommentare.de)": {
+        "id": "f492a38d0e52db0f-01",
+        "description": "Linguistically revised text of the Unrevised Elberfelder Translation with footnotes.",
+        "language": "German, Standard",
+        "script": "Latin",
+        "namelocal": "Elberfelder \u00dcbersetzung (Version von bibelkommentare.de)",
+        "abbreviation": "ELBBK"
+    },
+    "German Luther Bible 1912 with Strong's numbers": {
+        "id": "926aa5efbc5e04e2-01",
+        "description": "Protestant",
+        "language": "German, Standard",
+        "script": "Latin",
+        "namelocal": "Lutherbibel 1912 mit Strongs",
+        "abbreviation": "deuL1912"
+    },
+    "German Unrevised Elberfelder Bible": {
+        "id": "95410db44ef800c1-01",
+        "description": "Protestant",
+        "language": "German, Standard",
+        "script": "Latin",
+        "namelocal": "Darby Unrevidierte Elberfelder",
+        "abbreviation": "deuelo"
+    },
+    "The Holy Bible in German, translation by Kautzsch und Weizs\u00e4cker 1906": {
+        "id": "542b32484b6e38c2-01",
+        "description": "common",
+        "language": "German",
+        "script": "Latin",
+        "namelocal": "Textbibel von Kautzsch und Weizs\u00e4cker",
+        "abbreviation": "deutkw"
+    },
+    "The New Testament in Desiya Language": {
+        "id": "ef899709a85822c3-01",
+        "description": "The New Testament in Desiya Language, 2020",
+        "language": "Desiya",
+        "script": "Oriya",
+        "namelocal": "\u0b38\u0b24\u0b3f\u0b05\u0b30\u0b4d\u200c \u0b2c\u0b3e\u0b1f\u0b4d\u200c, \u0b28\u0b41\u0b06 \u0b28\u0b3f\u0b5f\u0b2e\u0b4d\u200c, 2020",
+        "abbreviation": "NTSaa20"
+    },
+    "Dawro New Testament": {
+        "id": "e578524a0893c6b7-01",
+        "description": "New Testament",
+        "language": "Dawro",
+        "script": "Latin",
+        "namelocal": "Dawro New Testament",
+        "abbreviation": "DWNT"
+    },
+    "Piibel K\u00f5igile": {
+        "id": "e1c5cd49c0757432-01",
+        "description": "Protestant",
+        "language": "Estonian, Standard",
+        "script": "Latin",
+        "namelocal": "Piibel K\u00f5igile",
+        "abbreviation": "PKP"
+    },
+    "Genesis, Exodus, and the New Testament in the Apal Language of Papua New Guinea": {
+        "id": "d17f683e8977c58c-01",
+        "description": "Genesis, Exodus and the New Testament in Apal",
+        "language": "Apali",
+        "script": "Latin",
+        "namelocal": "As\u0268 d\u0268 manas\u0268\u014b",
+        "abbreviation": "ApalGENT"
+    },
+    "American Standard Version (Byzantine Text with Apocrypha)": {
+        "id": "685d1470fe4d5c3b-01",
+        "description": null,
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "American Standard Version Byzantine Text with Apocrypha",
+        "abbreviation": "ASVBT"
+    },
+    "Berean Standard Bible": {
+        "id": "bba9f40183526463-01",
+        "description": "Berean Standard Bible",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "English: Berean Standard Bible",
+        "abbreviation": "BSB"
+    },
+    "Brenton English Septuagint (Updated Spelling and Formatting)": {
+        "id": "6bab4d6c61b31b80-01",
+        "description": "common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Brenton English Septuagint (Updated Spelling and Formatting)",
+        "abbreviation": "engLXXup"
+    },
+    "Brenton English translation of the Septuagint": {
+        "id": "65bfdebd704a8324-01",
+        "description": "Septuagint",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Brenton English translation of the Septuagint",
+        "abbreviation": "engbrent"
+    },
+    "Cambridge Paragraph Bible of the KJV": {
+        "id": "55212e3cf5d04d49-01",
+        "description": "Common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Cambridge Paragraph Bible of the KJV",
+        "abbreviation": "engKJVCPB"
+    },
+    "Douay-Rheims American 1899": {
+        "id": "179568874c45066f-01",
+        "description": "The Holy Bible in English, Douay-Rheims American Edition of 1899, translated from the Latin Vulgate",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Douay-Rheims American 1899",
+        "abbreviation": "engDRA"
+    },
+    "English Majority Text Version": {
+        "id": "55ec700d9e0d77ea-01",
+        "description": "common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "English Majority Text Version",
+        "abbreviation": "engEMTV"
+    },
+    "Free Bible Version": {
+        "id": "65eec8e0b60e656b-01",
+        "description": "Protestant FBV full 3.0 beta",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Free Bible Version",
+        "abbreviation": "FBV"
+    },
+    "Geneva Bible": {
+        "id": "c315fa9f71d4af3a-01",
+        "description": "common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Geneva Bible",
+        "abbreviation": "enggnv"
+    },
+    "JPS TaNaKH 1917": {
+        "id": "bf8f1c7f3f9045a5-01",
+        "description": "Jewish",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "JPS TaNaKH 1917",
+        "abbreviation": "engojps"
+    },
+    "King James (Authorised) Version": {
+        "id": "de4e12af7f28f599-01",
+        "description": "Ecumenical",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "King James Version",
+        "abbreviation": "engKJV"
+    },
+    "Literal Standard Version": {
+        "id": "01b29f4b342acc35-01",
+        "description": "Protestant",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Literal Standard Version",
+        "abbreviation": "LSV"
+    },
+    "Revised Version 1885": {
+        "id": "40072c4a5aba4022-01",
+        "description": "Interconfessional",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Revised Version 1885",
+        "abbreviation": "engRV"
+    },
+    "Targum Onkelos Etheridge": {
+        "id": "ec290b5045ff54a5-01",
+        "description": "common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Targum Onkelos Etheridge",
+        "abbreviation": "engOKE"
+    },
+    "TCENT": {
+        "id": "32339cf2f720ff8e-01",
+        "description": null,
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Text-Critical English New Testament",
+        "abbreviation": "engTCENT"
+    },
+    "The English New Testament According to Family 35": {
+        "id": "2f0fd81d7b85b923-01",
+        "description": "Common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "The English New Testament According to Family 35",
+        "abbreviation": "engF35"
+    },
+    "The Holy Bible, American Standard Version": {
+        "id": "06125adad2d5898a-01",
+        "description": "Bible",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "The Holy Bible, American Standard Version",
+        "abbreviation": "ASV"
+    },
+    "The Orthodox Jewish Bible": {
+        "id": "c89622d31b60c444-02",
+        "description": "OT follows Tanakh order, NT follows usual Protestant order",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "The Orthodox Jewish Bible",
+        "abbreviation": "TOJB2011"
+    },
+    "Translation for Translators": {
+        "id": "66c22495370cdfc0-01",
+        "description": "common",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "Translation for Translators",
+        "abbreviation": "T4T"
+    },
+    "World English Bible": {
+        "id": "9879dbb7cfe39e4d-04",
+        "description": "Protestant",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "World English Bible",
+        "abbreviation": "WEB"
+    },
+    "World English Bible British Edition": {
+        "id": "7142879509583d59-04",
+        "description": "Protestant",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "World English Bible British Edition",
+        "abbreviation": "WEBBE"
+    },
+    "World English Bible, American English Edition, without Strong's Numbers": {
+        "id": "32664dc3288a28df-02",
+        "description": "Protestant",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "World English Bible, American English Edition, without Strong's Numbers",
+        "abbreviation": "engWEBUS"
+    },
+    "World Messianic Bible": {
+        "id": "f72b840c855f362c-04",
+        "description": "Messianic",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "World Messianic Bible",
+        "abbreviation": "WMB"
+    },
+    "World Messianic Bible British Edition": {
+        "id": "04da588535d2f823-04",
+        "description": "Messianic",
+        "language": "English",
+        "script": "Latin",
+        "namelocal": "World Messianic Bible British Edition",
+        "abbreviation": "WMBBE"
+    },
+    "Biblica\u00ae Open Ewe Contemporary Scriptures 2020": {
+        "id": "ac90bfebd4ee9c4d-01",
+        "description": "Holy Scriptures",
+        "language": "Ewe",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Se a\u0256eke mebla Biblia (Agbenya La\u2122) zaz\u00e3 o.",
+        "abbreviation": "OECS"
+    },
+    "Pular Fuuta-Jallon Version": {
+        "id": "9b076bc0f1856204-01",
+        "description": "New Testament",
+        "language": "Pular",
+        "script": "Latin",
+        "namelocal": "Version Pular Fuuta-Jallon",
+        "abbreviation": "PFJV"
+    },
+    "New Testament in Mborena Kam": {
+        "id": "da905e46720432e2-01",
+        "description": "New Testament in Mbore language (Mborena Kam)",
+        "language": "Borei",
+        "script": "Latin",
+        "namelocal": "Rara\u014b Aetaniacna Kam Wemba\u014b La\u014b",
+        "abbreviation": "MbKamNT"
+    },
+    "The Gata Didayi Testament Language": {
+        "id": "2193678febf23d26-01",
+        "description": "The Gata Didayi Testament Language, 2020",
+        "language": "Gata\u2019",
+        "script": "Oriya",
+        "namelocal": "\u0b38\u0b24\u0b4d\u200c \u0b17\u0b3e\u0b32\u0b3f, \u0b2f\u0b40\u0b36\u0b41 \u0b2e\u0b3e\u0b2a\u0b4d\u200c\u0b30\u0b41\u0b28\u0b47 \u0b24\u0b4d\u0b2e\u0b3f \u0b28\u0b3f\u0b05\u0b2e\u0b4d",
+        "abbreviation": "NTDaa20"
+    },
+    "Biblica\u00ae Open New Oromo Contemporary Version": {
+        "id": "1849509e461c9a00-01",
+        "description": "Holy Bible",
+        "language": "Oromo, West Central",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae  Hiikkaa Ammayyaa Banamaa Haaraa, Loqoda Dhi'aa",
+        "abbreviation": "omONCV22"
+    },
+    "The New Testament in Kire": {
+        "id": "e8b818f49c7c2835-01",
+        "description": "Protestant",
+        "language": "Kire",
+        "script": "Latin",
+        "namelocal": "Fhe Bak\u0268men Kaman Kame\u014b",
+        "abbreviation": "Kir-NT"
+    },
+    "Gamo Geesha Maxxafa New Testamen": {
+        "id": "9915a49ed60cc12f-01",
+        "description": "Gamo Geesha Maxxafa New Testament Unicode",
+        "language": "Gamo",
+        "script": "Latin",
+        "namelocal": "Gamo Geesha Maxxafa New Testamen",
+        "abbreviation": "GGMNT"
+    },
+    "Gofa New Testament": {
+        "id": "ba74d885b27806bb-01",
+        "description": "Gofa New Testament",
+        "language": "Gofa",
+        "script": "Latin",
+        "namelocal": "Gofa New Testament",
+        "abbreviation": "GOFNT"
+    },
+    "1904 Patriarchal Greek New Testament with 20 corrections from later editions": {
+        "id": "901dcd9744e1bf69-01",
+        "description": "Common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "\u0392\u03c5\u03b6\u03b1\u03bd\u03c4\u03b9\u03bd\u03ae \u039a\u03b1\u03b9\u03bd\u03ae \u0394\u03b9\u03b1\u03b8\u03ae\u03ba\u03b7 1904",
+        "abbreviation": "grcBYZ1904c"
+    },
+    "Brenton Greek Septuagint": {
+        "id": "c114c33098c4fef1-01",
+        "description": "common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "\u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1",
+        "abbreviation": "grcbrent"
+    },
+    "Greek Textus Receptus": {
+        "id": "3aefb10641485092-01",
+        "description": "common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "\u0397 \u039a\u03b1\u03b9\u03bd\u03ae \u0394\u03b9\u03b1\u03b8\u03ae\u03ba\u03b7",
+        "abbreviation": "GRCTR"
+    },
+    "Solid Rock Greek New Testament": {
+        "id": "47f396bad37936f0-01",
+        "description": "common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "\u0397 \u039a\u03b1\u03b9\u03bd\u03ae \u0394\u03b9\u03b1\u03b8\u03ae\u03ba\u03b7",
+        "abbreviation": "grcSRGNT"
+    },
+    "Text-Critical Greek New Testament": {
+        "id": "7644de2e4c5188e5-01",
+        "description": "Common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "Text-Critical Greek New Testament",
+        "abbreviation": "grcTCGNT"
+    },
+    "The Greek New Testament According to Family 35": {
+        "id": "5e29945cf530b0f6-01",
+        "description": "common",
+        "language": "Greek, Ancient",
+        "script": "Greek",
+        "namelocal": "\u0397 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039a\u03b1\u03b9\u03bd\u03ae \u0394\u03b9\u03b1\u03b8\u03ae\u03ba\u03b7 \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u039f\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1 35",
+        "abbreviation": "grcF35"
+    },
+    "Indian Revised Version (IRV) Gujarati-2019": {
+        "id": "a3644a98420c2703-01",
+        "description": "Protestant Bible for All",
+        "language": "Gujarati",
+        "script": "Gujarati",
+        "namelocal": "\u0a87\u0aa8\u0acd\u0aa1\u0abf\u0aaf\u0aa8 \u0ab0\u0ac0\u0ab5\u0abe\u0a87\u0a9d\u0acd\u0aa1 \u0ab5\u0ab0\u0acd\u0a9d\u0aa8 \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0  - 2019",
+        "abbreviation": "IRVGuj"
+    },
+    "Biblica\u00ae Open Hausa Contemporary Bible 2020": {
+        "id": "0ab0c764d56a715d-02",
+        "description": "Holy Bible",
+        "language": "Hausa",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Bu\u0257a\u0257\u0257en Littafi Mai Tsarki, Sabon Rai Don Kowa 2020",
+        "abbreviation": "OHCB"
+    },
+    "The Hebrew Bible, Westminister Leningrad Codex": {
+        "id": "0b262f1ed7f084a6-01",
+        "description": "Common",
+        "language": "Hebrew, Ancient",
+        "script": "Hebrew",
+        "namelocal": "\u05db\u05ea\u05d1\u05d9 \u05d4\u05e7\u05d5\u05d3\u05e9",
+        "abbreviation": "hboWLC"
+    },
+    "Biblica\u00ae Open Hebrew Living New Testament 2009": {
+        "id": "a8a97eebae3c98e4-01",
+        "description": "New Testament",
+        "language": "Hebrew, Modern",
+        "script": "Hebrew",
+        "namelocal": "Biblica\u00ae Habrit Hakhadasha/Haderekh Zekuyot Patuchot 2009",
+        "abbreviation": "OHD"
+    },
+    "Westminster Leningrad Codex": {
+        "id": "2c500771ea16da93-01",
+        "description": "Westminster Leningrad Codex",
+        "language": "Hebrew",
+        "script": "Hebrew",
+        "namelocal": "Westminster Leningrad Codex",
+        "abbreviation": "WLC"
+    },
+    "Hindi Contemporary Version 2019": {
+        "id": "2133003bb8b5e62b-01",
+        "description": "Holy Bible",
+        "language": "Hindi",
+        "script": "Devanagari",
+        "namelocal": "\u0939\u093f\u0902\u0926\u0940 \u0938\u092e\u0915\u093e\u0932\u0940\u0928 \u0938\u0902\u0938\u094d\u0915\u0930\u0923",
+        "abbreviation": "HCV"
+    },
+    "Indian Revised Version(IRV) Hindi - 2019": {
+        "id": "1e8ab327edbce67f-01",
+        "description": "Hindi Bible for All",
+        "language": "Hindi",
+        "script": "Devanagari",
+        "namelocal": "\u0907\u0902\u0921\u093f\u092f\u0928 \u0930\u093f\u0935\u093e\u0907\u091c\u094d\u0921 \u0935\u0930\u094d\u091c\u0928 (IRV) \u0939\u093f\u0902\u0926\u0940 - 2019",
+        "abbreviation": "IRVHin"
+    },
+    "The New Testament in Holiya Language": {
+        "id": "9dec3e0ffbd4386b-01",
+        "description": "The New Testament in Holiya Language, 2020",
+        "language": "Holiya",
+        "script": "Devanagari",
+        "namelocal": "\u092a\u0930\u092e\u0947\u0936\u094d\u200d\u0935\u0930 \u0909\u0928 \u0916\u0930\u093e \u0935\u091a\u0928, \u0935\u094d\u200d\u0939\u093e\u0936\u094b\u0926 \u0928\u093f\u092f\u092e",
+        "abbreviation": "NTHaa20"
+    },
+    "Biblica\u00ae Open Croatian Living New Testament 2000": {
+        "id": "b00de703b3d02a5a-01",
+        "description": "New Testament",
+        "language": "Croatian",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Open Knjiga O Kristu",
+        "abbreviation": "OKOK"
+    },
+    "Biblica\u00ae Open Hungarian New Testament: Life, Truth and Light 2003": {
+        "id": "fcfc25677b0a53c9-01",
+        "description": "Open Hungarian Life, Truth and Light  New Testament: (Nyitott \u00dajsz\u00f6vets\u00e9g: \u00e9let, igazs\u00e1g \u00e9s vil\u00e1goss\u00e1g) 2003",
+        "language": "Hungarian",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Nyitott \u00dajsz\u00f6vets\u00e9g: \u00e9let, igazs\u00e1g \u00e9s vil\u00e1goss\u00e1g",
+        "abbreviation": "OEIV"
+    },
+    "Biblica\u00ae Open Igbo Contemporary Bible 2020": {
+        "id": "a36fc06b086699f1-02",
+        "description": "Holy Bible",
+        "language": "Igbo",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Ba\u1ecbb\u1ee5l\u1ee5 Ns\u1ecd n\u02bcIgbo Nd\u1ecb Ugbu a nke d\u1ecbr\u1ecb onye \u1ecdb\u1ee5la \u1ecbg\u1ee5",
+        "abbreviation": "OICB"
+    },
+    "Plain Indonesian Translation": {
+        "id": "2dd568eeff29fb3c-02",
+        "description": "Easy to understand every day translation",
+        "language": "Indonesian",
+        "script": "Latin",
+        "namelocal": "Terjemahan Sederhana Indonesia",
+        "abbreviation": "TSI"
+    },
+    "Terjemahan Sederhana Indonesia NT Second Edition": {
+        "id": "2dd568eeff29fb3c-01",
+        "description": "New Testament and some other books",
+        "language": "Indonesian",
+        "script": "Latin",
+        "namelocal": "Perjanjian Baru dalam Terjemahan Sederhana Indonesia Edisi Kedua",
+        "abbreviation": "TSI"
+    },
+    "Biblica\u00ae Open Icelandic Contemporary New Testament and Psalms": {
+        "id": "e4581313051f2861-01",
+        "description": "Protestant NT and Psalms",
+        "language": "Icelandic",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Opna N\u00fdja testamenti\u00f0 og S\u00e1lmarnir endursag\u00f0ir \u00e1 daglegu m\u00e1li",
+        "abbreviation": "OLO"
+    },
+    "Diodati Bible 1885": {
+        "id": "41f25b97f468e10b-01",
+        "description": "Diodati Bible 1885",
+        "language": "Italian",
+        "script": "Latin",
+        "namelocal": "Diodati Bibbia 1885",
+        "abbreviation": "DB1885"
+    },
+    "The New Testament in Juray Soura Language": {
+        "id": "0aaff251e76ae6ba-01",
+        "description": "The New Testament in Juray Soura Language",
+        "language": "Juray",
+        "script": "Oriya",
+        "namelocal": "\u0b06\u0b1c\u0b3e\u0b21\u0b3c\u0b3f \u0b24\u0b19\u0b30\u0b28\u0b4d\u200c, \u0b30\u0b19\u0b4d\u200c \u0b05\u0b28\u0b17\u0b21\u0b28\u0b4d\u200c",
+        "abbreviation": "NTJaa20"
+    },
+    "Biblica\u00ae Open Kannada Contemporary Version 2022": {
+        "id": "08389f036844c2de-01",
+        "description": "Holy Bible",
+        "language": "Kannada",
+        "script": "Kannada",
+        "namelocal": "Biblica\u00ae \u0c89\u0c9a\u0cbf\u0ca4 \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 \u0cb8\u0cae\u0c95\u0cbe\u0cb2\u0cbf\u0c95 \u0cad\u0cbe\u0cb7\u0cbe\u0c82\u0ca4\u0cb0\u2122",
+        "abbreviation": "OKCV"
+    },
+    "Indian Revised Version (IRV) Kannada - 2019": {
+        "id": "a33a100f04f2752e-01",
+        "description": "Bible for all",
+        "language": "Kannada",
+        "script": "Kannada",
+        "namelocal": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0cb0\u0cbf\u0cb5\u0cc8\u0c9c\u0ccd\u0ca1\u0ccd \u0cb5\u0cb0\u0ccd\u0cb8\u0ca8\u0ccd (IRV) - \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 - 2019",
+        "abbreviation": "IRVKan"
+    },
+    "Kamano-Kafe Bible [kbq]": {
+        "id": "3a5dafd48a13c6d9-01",
+        "description": "common",
+        "language": "Kamano",
+        "script": "Latin",
+        "namelocal": "Anumzamofo Routage Avantafere",
+        "abbreviation": "kbq"
+    },
+    "Khanty Bible Translation": {
+        "id": "913473cd3c600aa8-02",
+        "description": "Khanty Bible",
+        "language": "Khanty",
+        "script": "Cyrillic",
+        "namelocal": "\u0425\u04d1\u043d\u0442\u044b \u041f\u0435\u0440\u0435\u0432\u043e\u0434 \u0411\u0438\u0431\u043b\u0438\u0438",
+        "abbreviation": "KhPB"
+    },
+    "The Bible in Kutu": {
+        "id": "9d19c0063d291d7b-03",
+        "description": null,
+        "language": "Kutu",
+        "script": "Latin",
+        "namelocal": "Biblia Kikutu",
+        "abbreviation": "Kutu"
+    },
+    "The New Testament in Kutu": {
+        "id": "f2f349d77ac8f8bc-01",
+        "description": "New Testament",
+        "language": "Kutu",
+        "script": "Roman",
+        "namelocal": "Lagano da Sambi kwa Wanhu Wose",
+        "abbreviation": "Kutu"
+    },
+    "The Bible in Makonde": {
+        "id": "c11c93a0b8a04496-01",
+        "description": "NT and OT books",
+        "language": "Makonde",
+        "script": "Latin",
+        "namelocal": "Bibiliya ya Chimakonde",
+        "abbreviation": "Makonde"
+    },
+    "The New Testament in Konda Porja Language": {
+        "id": "16fb881ce1e27a60-01",
+        "description": "The New Testament in Konda Porja Language, 2020",
+        "language": "Konda-Dora",
+        "script": "Oriya",
+        "namelocal": "\u0b2e\u0b3e\u0b2a\u0b41\u0b30\u0b41\u0b26\u0b3f \u0b38\u0b24\u0b4d\u200c \u0b2c\u0b3e\u0b15\u0b4d\u0b5f, \u0b2a\u0b41\u0b28\u0b3f \u0b28\u0b3f\u0b5f\u0b2e\u0b4d\u200c",
+        "abbreviation": "NTKoo20"
+    },
+    "Kharam New Testament": {
+        "id": "f258cb39615c351d-01",
+        "description": "Kharam New Testament 2021",
+        "language": "Naga, Kharam",
+        "script": "Latin",
+        "namelocal": "Bible Inzootna Kathar",
+        "abbreviation": "KHMNT"
+    },
+    "Biblica\u00ae Open Kikuyu Holy Word of God 2013": {
+        "id": "be8dc4ba39edf911-01",
+        "description": "Holy Bible in G\u0129k\u0169y\u0169",
+        "language": "Gikuyu",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Kiugo G\u0129theru K\u0129a Ngai K\u0129hing\u0169re 2013",
+        "abbreviation": "OKGN"
+    },
+    "Kapingamarangi Bible": {
+        "id": "df7d5d71526afe9e-01",
+        "description": "Common",
+        "language": "Kapingamarangi",
+        "script": "Latin",
+        "namelocal": "Beebaa Dabu",
+        "abbreviation": "kpg"
+    },
+    "Mum Language NT Portions": {
+        "id": "5591cba5ae063228-01",
+        "description": "Mum Matthew",
+        "language": "Mum",
+        "script": "Latin",
+        "namelocal": "Mum Tok Ples",
+        "abbreviation": "MumNP18"
+    },
+    "The Book of Mark - Kianying Balang": {
+        "id": "6aa52b968434d882-01",
+        "description": "Gospel of Mark",
+        "language": "Kyenele",
+        "script": "Latin",
+        "namelocal": "Mak - Kia\u00f1i\u014b Bala\u014b",
+        "abbreviation": "KBNT"
+    },
+    "The New Testament in Kuvi Language": {
+        "id": "8f4e6c5be17e7e8c-01",
+        "description": "The New Testament in Kuvi Language, 2020",
+        "language": "Kuvi",
+        "script": "Oriya",
+        "namelocal": "\u0b2a\u0b41\u0b03\u0b28\u0b3f \u0b2e\u0b47\u0b3c\u0b30\u0b3e, \u0b15\u0b41\u0b71\u0b3f \u0b2a\u0b41\u0b03\u0b28\u0b3f \u0b2e\u0b47\u0b3c\u0b30\u0b3e",
+        "abbreviation": "NTKii20"
+    },
+    "The New Testament in Lodhi language": {
+        "id": "ab8b84930a5ebb89-01",
+        "description": "The New Testament in Lodhi language",
+        "language": "Lodhi",
+        "script": "Devanagari",
+        "namelocal": "\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930 \u0915\u094b \u0938\u091a\u094d\u091a\u094b \u0935\u091a\u0928 , \u0928\u092f\u094b \u0928\u093f\u092f\u092e,",
+        "abbreviation": "NTLii20"
+    },
+    "Biblica\u00ae Open Lingala Contemporary Bible 2020": {
+        "id": "ac6b6b7cd1e93057-01",
+        "description": "Holy Bible",
+        "language": "Lingala",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Salela na bonsomi Mokanda na Bomoi",
+        "abbreviation": "OLCV"
+    },
+    "Biblica\u00ae Open Luganda Contemporary Bible 2014": {
+        "id": "f276be3571f516cb-01",
+        "description": "The Holy Bible",
+        "language": "Ganda",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Bayibuli Entukuvu, Endagaano Enkadde n\u02bcEndagaano Empya ekwatiddwa ku katambi\u2122",
+        "abbreviation": "OLCB"
+    },
+    "Biblica\u00ae Open New Luo Translation 2020": {
+        "id": "4d4df8722134c5ee-01",
+        "description": "Bible",
+        "language": "Dholuo",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Ochiw Thuolo Moting\u02bco Loko Manyien",
+        "abbreviation": "ONLT"
+    },
+    "Biblica\u00ae Open Malayalam Contemporary Version 2020": {
+        "id": "de295e9ba65f6d0f-01",
+        "description": "Holy Bible",
+        "language": "Malayalam",
+        "script": "Malayalam",
+        "namelocal": "Biblica\u00ae \u0d38\u0d2e\u0d15\u0d3e\u0d32\u0d3f\u0d15 \u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d38\u0d4d\u0d35\u0d24\u0d28\u0d4d\u0d24\u0d4d\u0d30 \u0d35\u0d3f\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d28\u0d02 2020",
+        "abbreviation": "OMCV"
+    },
+    "Indian Revised Version (IRV) Malayalam - 2019": {
+        "id": "3ea0147e32eebe47-01",
+        "description": "Whole Bible",
+        "language": "Malayalam",
+        "script": "Malayalam",
+        "namelocal": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d31\u0d3f\u0d35\u0d48\u0d38\u0d4d\u0d21\u0d4d \u0d35\u0d47\u0d7c\u0d37\u0d7b - \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "abbreviation": "IRVMAL"
+    },
+    "Indian Revised Version (IRV) - Marathi": {
+        "id": "8c49129a458d4059-01",
+        "description": "Marathi Protestant Bible",
+        "language": "Marathi",
+        "script": "Devanagari",
+        "namelocal": "\u0907\u0902\u0921\u093f\u092f\u0928 \u0930\u0940\u0935\u093e\u0907\u091c\u094d\u0921 \u0935\u0930\u094d\u091c\u0928 (IRV) - \u092e\u0930\u093e\u0920\u0940",
+        "abbreviation": "IRVMar"
+    },
+    "Maale Bible": {
+        "id": "385573d4ba3ff72a-01",
+        "description": "The Bible in Maale",
+        "language": "Male",
+        "script": "Ethiopic",
+        "namelocal": "\u130c\u12a4\u12e6 \u121b\u1343\u12a3\u1356",
+        "abbreviation": "MB"
+    },
+    "Maale New Testament": {
+        "id": "bed82ba57f117c16-01",
+        "description": "New Testament",
+        "language": "Male (Ethiopia)",
+        "script": "Ethiopic",
+        "namelocal": "Maale New Testament",
+        "abbreviation": "MNT"
+    },
+    "Morokodo": {
+        "id": "abf017938be72f46-01",
+        "description": "Portion of Morokodo",
+        "language": "Morokodo",
+        "script": "Latin",
+        "namelocal": "Morokodo",
+        "abbreviation": "MKD"
+    },
+    "Makua New Testament": {
+        "id": "b5105cd03c972046-01",
+        "description": "Makua New Testament 2015",
+        "language": "Makhuwa-Meetto",
+        "script": "Latin",
+        "namelocal": "Makua New Testament",
+        "abbreviation": "MNT"
+    },
+    "New Testament in Matumbi": {
+        "id": "f638e44feb77f803-01",
+        "description": "New Testament in Matumbi",
+        "language": "Matumbi",
+        "script": "Latin",
+        "namelocal": "Matumbi is Lilaganu Lyayambi\u2019",
+        "abbreviation": "Matumbi"
+    },
+    "Meitei New Testament (Roman Script)": {
+        "id": "e3cd1d240c384e91-01",
+        "description": "Meitei New Testament Written in Roman Script",
+        "language": "Meitei",
+        "script": "Latin",
+        "namelocal": "Anouba Warepnaba (Roman Script)",
+        "abbreviation": "RSM"
+    },
+    "God's Holy Book in Sankaran": {
+        "id": "4ffcec8e8f3c33e7-01",
+        "description": "Portions of the Old and New Testaments",
+        "language": "Maninka, Sankaran",
+        "script": "Latin",
+        "namelocal": "Alla la Kitabu Seniman",
+        "abbreviation": "GHBS"
+    },
+    "Aruamu New Testament": {
+        "id": "5e51f89e89947acb-01",
+        "description": "Aruamu New Testament",
+        "language": "Aruamu",
+        "script": "Latin",
+        "namelocal": "God\u0268n Akar Aghuim; Akar D\u0268k\u0268r\u0268zir Gavgavir Igiam",
+        "abbreviation": "AruNT04"
+    },
+    "The Bible in Aruamu: Old Testament and New Testament": {
+        "id": "98adf0b796dc9ff4-01",
+        "description": "Protestant",
+        "language": "Aruamu",
+        "script": "Latin",
+        "namelocal": "God\u0268n Eghaghanim: Akar Gavgavir D\u0268k\u0268r\u0268zir Ghurim ko Igiam",
+        "abbreviation": "AruBib20"
+    },
+    "The New Testament in Mwela": {
+        "id": "ed5744967fe39c8c-01",
+        "description": "New Testament",
+        "language": "Mwera",
+        "script": "Latin",
+        "namelocal": "Malagano ga Ambi",
+        "abbreviation": "Mwela"
+    },
+    "Indian Standard Version (ISV) Nagamese": {
+        "id": "e423bf8faef6643b-01",
+        "description": "Protestant",
+        "language": "Naga Pidgin",
+        "script": "Latin",
+        "namelocal": "Indian Standard Version (ISV) Nagamese",
+        "abbreviation": "ISVNag"
+    },
+    "Ndebele Contemporary Open Bible 2022": {
+        "id": "0de391111a4cac1e-02",
+        "description": "Protestant",
+        "language": "Ndebele",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo",
+        "abbreviation": "ndOBEN22"
+    },
+    "The New Testament in Ndamba": {
+        "id": "cb0425ae772bb042-01",
+        "description": null,
+        "language": "Ndamba",
+        "script": "Roman",
+        "namelocal": "Lilaghanu lya shonu",
+        "abbreviation": "NdBV"
+    },
+    "Nguu New Testament": {
+        "id": "324f457845cb5d21-01",
+        "description": null,
+        "language": "Nguu",
+        "script": "Roman",
+        "namelocal": "Ndagano mp'ya kwa wanth'u wose",
+        "abbreviation": "NgBV"
+    },
+    "Takuu New Testament": {
+        "id": "312df00520eac624-01",
+        "description": "commo",
+        "language": "Takuu",
+        "script": "Latin",
+        "namelocal": "Na Taratara TeAtua i naa taratara Takuu",
+        "abbreviation": "NHO"
+    },
+    "Dutch Bible 1939": {
+        "id": "ead7b4cc5007389c-01",
+        "description": "Catholic",
+        "language": "Dutch",
+        "script": "Latin",
+        "namelocal": "De Heilige Schrift, Petrus Canisiusvertaling, 1939",
+        "abbreviation": "nld1939"
+    },
+    "The New Testament in Nahali Language": {
+        "id": "604771cc77d9136d-01",
+        "description": "The New Testament in Nahali Language, 2020",
+        "language": "Nahali",
+        "script": "Devanagari",
+        "namelocal": "\u0916\u0947\u0930\u0932\u094b \u0935\u091a\u0928 \u0928\u094b\u0935\u093e\u0932\u094b \u0928\u093f\u092f\u092e",
+        "abbreviation": "NTNii2020"
+    },
+    "Ngindo New Testament": {
+        "id": "31c1130475000445-01",
+        "description": "Ngindo New Testament",
+        "language": "Ngindo",
+        "script": "Latin",
+        "namelocal": "Ngindo New Testament",
+        "abbreviation": "NNQNT"
+    },
+    "Biblica\u00ae Open Norwegian Living New Testament": {
+        "id": "246ad95eade0d0a1-01",
+        "description": "New Testament",
+        "language": "Norwegian Bokm\u00e5l",
+        "script": "Latin",
+        "namelocal": "En Levende Bok",
+        "abbreviation": "ONLNT"
+    },
+    "Biblica\u00ae Open God\u2019s Word in Contemporary Chichewa 2016": {
+        "id": "43247c35dbe56e1c-01",
+        "description": "Bible",
+        "language": "Chichewa",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Tsekulani Mawu a Mulungu mu Chichewa Chalero",
+        "abbreviation": "OCCL"
+    },
+    "Havai Old Testament Selections": {
+        "id": "1f0fb3b67c603710-01",
+        "description": "Old Testament panorama  in Havai, with the entire book of Jonah",
+        "language": "Ambae, East",
+        "script": "Latin",
+        "namelocal": "Waratau Siaga Tatuei mo Vilegi",
+        "abbreviation": "HavOTS"
+    },
+    "Indian Revised Version(IRV) Odia - NT": {
+        "id": "03e08e889c768aa7-02",
+        "description": "Oriya Literal Bible",
+        "language": "Oriya",
+        "script": "Oriya",
+        "namelocal": "\u0b07\u0b23\u0b4d\u0b21\u0b3f\u0b5f\u0b3e\u0b28 \u0b30\u0b3f\u0b71\u0b3e\u0b07\u0b38\u0b4d\u0b21\u0b4d \u0b71\u0b30\u0b38\u0b28\u0b4d \u0b13\u0b21\u0b3f\u0b06 -NT",
+        "abbreviation": "IRVOry"
+    },
+    "Indian Revised Version (IRV) Punjabi - 2019": {
+        "id": "e2588ba61891daa5-01",
+        "description": "Bible for all",
+        "language": "Panjabi, Eastern",
+        "script": "Gurmukhi",
+        "namelocal": "\u0a07\u0a70\u0a21\u0a3f\u0a05\u0a28 \u0a30\u0a3f\u0a35\u0a3e\u0a07\u0a5b\u0a21 \u0a35\u0a30\u0a5b\u0a28 (IRV) - \u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40",
+        "abbreviation": "IRVPun"
+    },
+    "The New Testament in Pengo Language": {
+        "id": "c3c7dadacb71fb1e-01",
+        "description": "The New Testament in Pengo Language,2020",
+        "language": "Pengo",
+        "script": "Oriya",
+        "namelocal": "\u0b38\u0b24\u0b4d\u200c \u0b2c\u0b1a\u0b28\u0b4d\u200c, \u0b2a\u0b41\u0b28\u0b3f \u0b28\u0b3f\u0b5f\u0b2e\u0b4d\u200c",
+        "abbreviation": "NTNoo20"
+    },
+    "Biblica\u00ae Open Persian Contemporary Bible": {
+        "id": "7cd100148df29c08-01",
+        "description": "Holy Bible",
+        "language": "Persian, Iranian",
+        "script": "Arabic",
+        "namelocal": "\u062a\u0631\u062c\u0645\u06c0 \u0645\u0639\u0627\u0635\u0631",
+        "abbreviation": "OPCB"
+    },
+    "Biblica\u00ae Open Polish Living New Testament 2016": {
+        "id": "fbb8b0e1943b417c-01",
+        "description": "The New Testament in easy to understand Polish",
+        "language": "Polish",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae S\u0142owo \u017bycia, otwarty dost\u0119p 2016",
+        "abbreviation": "OPLNT"
+    },
+    "Updated Gdansk Bible": {
+        "id": "1c9761e0230da6e0-01",
+        "description": "Common",
+        "language": "Polish",
+        "script": "Latin",
+        "namelocal": "UWSP\u00d3\u0141CZE\u015aNIONA BIBLIA GDA\u0143SKA",
+        "abbreviation": "polUBG"
+    },
+    "Biblia Livre Para Todos": {
+        "id": "d63894c8d9a7a503-01",
+        "description": null,
+        "language": "Portuguese",
+        "script": "Latin",
+        "namelocal": "Biblia Livre Para Todos",
+        "abbreviation": "BLT"
+    },
+    "Translation for Translators in Brasilian Portuguese": {
+        "id": "90799bb5b996fddc-01",
+        "description": "common",
+        "language": "Portuguese",
+        "script": "Latin",
+        "namelocal": "Translation for Translators in Brasilian Portuguese",
+        "abbreviation": "TfTP"
+    },
+    "The New Testament in Pogoro": {
+        "id": "355792a03079ccdd-01",
+        "description": "New Testament",
+        "language": "Shipogoro",
+        "script": "Roman",
+        "namelocal": "Lipatanu Lya Syayi Kwa Wantu Woseri",
+        "abbreviation": "PBV"
+    },
+    "Nuevo Testamento K'iche' of Totonicapan": {
+        "id": "a77409f7cf5be995-01",
+        "description": null,
+        "language": "K\u2019iche\u2019",
+        "script": "Latin",
+        "namelocal": "RI K\ua78cAK\ua78c TESTAMENTO PA TZIJOB\ua78cAL K\ua78cICHE\ua78c",
+        "abbreviation": "QUTTOT22"
+    },
+    "Carpathian Romani 2021": {
+        "id": "33ac978af36830fa-02",
+        "description": "The Carpathian Romani Bible. Contains full NT and parts of OT that have been completed. Protestant canon.",
+        "language": "Romani, Carpathian",
+        "script": "Latin",
+        "namelocal": "Le Devleskero Lav Andre Roma\u0148i \u010chib Slovensko 2021",
+        "abbreviation": "RMC"
+    },
+    "Carpathian Romani Bible": {
+        "id": "e952663db2e91691-01",
+        "description": "Luke and Acts",
+        "language": "Romani, Carpathian",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0456\u0431\u043b\u0456\u044f \u043f\u0440\u043e \u0437\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0446\u044c\u043a\u043e \u0440\u043e\u043c\u0430\u043d\u043e \u0447\u0456\u0431",
+        "abbreviation": "ZRB"
+    },
+    "Crimean Romani Bible": {
+        "id": "6c018dd7a342aa63-01",
+        "description": "Ruth, Jonah Luke, Acts",
+        "language": "Romani, Balkan",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0438\u0431\u043b\u0438\u044f \u043e\u043f\u044d\u0440 \u043a\u0440\u044b\u043c\u0441\u043a\u0438 \u0440\u043e\u043c\u0430\u043d\u0438 \u0447\u0438\u0431",
+        "abbreviation": "KRB"
+    },
+    "Romani Arli Bible": {
+        "id": "0a0927a2e4c58318-01",
+        "description": null,
+        "language": "Romani, Balkan",
+        "script": "Latin",
+        "namelocal": "I Biblija ki Arli romani \u010dhib",
+        "abbreviation": "Arli"
+    },
+    "Bible in Chergash Romani": {
+        "id": "65b675fa952d5d27-01",
+        "description": null,
+        "language": "Romani, Vlax",
+        "script": "Latin",
+        "namelocal": "Biblija pe romani \u010dhib",
+        "abbreviation": "Chergash"
+    },
+    "Lovary Romany Bible": {
+        "id": "f6c04124034a114e-01",
+        "description": "Ruth and Jonah",
+        "language": "Romani, Vlax",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0438\u0431\u043b\u0438\u044f \u043f\u044d \u043b\u043e\u0432\u0430\u0440\u0438\u0446\u043a\u043e \u0440\u043e\u043c\u0430\u043d\u044b \u0449\u0438\u0431",
+        "abbreviation": "LRB"
+    },
+    "Servi Romani Bible": {
+        "id": "5611c12a3dafb263-01",
+        "description": "Ruth, Jonah, Luke, Acts",
+        "language": "Romani, Vlax",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0438\u0431\u043b\u0438\u044f \u043f\u044b \u0441\u044d\u0440\u0432\u0438\u0446\u043a\u043e \u0440\u043e\u043c\u0441\u043a\u043e \u0447\u0438\u0431",
+        "abbreviation": "SRB"
+    },
+    "The Word of God in Gurbet": {
+        "id": "494329fa9b8f2892-01",
+        "description": null,
+        "language": "Romani, Vlax",
+        "script": "Latin",
+        "namelocal": "E Devleso Lafi ko Gurbetsko dijalekt",
+        "abbreviation": "Gurbet"
+    },
+    "\u0412\u043b\u0430\u0441\u0438\u0442\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434": {
+        "id": "4e046bd6977f26de-01",
+        "description": "Eastern Vlakh Romani Portions",
+        "language": "Romani, Vlax",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0438\u0431\u043b\u0438\u044f \u043f\u044d \u0432\u043b\u0430\u0445\u0438\u0446\u043a\u043e \u0440\u043e\u043c\u0430\u043d\u0438 \u0448\u044b\u0431",
+        "abbreviation": "VRB"
+    },
+    "The New Testament in Lughulu": {
+        "id": "98d1c5bee401f80c-01",
+        "description": "New Testament",
+        "language": "Chilughuru",
+        "script": "Roman",
+        "namelocal": "Laghano Lya Sambi Kwe Iwanu Wose",
+        "abbreviation": "LBV"
+    },
+    "Sanskrit Bible (NT) in Assamese Script (\u09b8\u09a4\u09cd\u09af\u09f1\u09c7\u09a6\u0983\u0964)": {
+        "id": "bb3df4b7c8587c77-01",
+        "description": "Sanskrit Bible (NT) in Assamese Script (\u09b8\u09a4\u09cd\u09af\u09f1\u09c7\u09a6\u0983\u0964)",
+        "language": "Sanskrit",
+        "script": "Bengali",
+        "namelocal": "\u09b8\u09a4\u09cd\u09af\u09f1\u09c7\u09a6\u0983\u0964 Sanskrit Bible (NT) in Assamese Script",
+        "abbreviation": "SANAS"
+    },
+    "Sanskrit Bible (NT) in Bengali Script": {
+        "id": "8d1ad2c921d811c3-01",
+        "description": "Sanskrit Bible (NT) in Bengali Script (\u09b8\u09a4\u09cd\u09af\u09ac\u09c7\u09a6\u0983\u0964)",
+        "language": "Sanskrit",
+        "script": "Bengali",
+        "namelocal": "\u09b8\u09a4\u09cd\u09af\u09ac\u09c7\u09a6\u0983\u0964 Sanskrit Bible (NT) in Bengali Script",
+        "abbreviation": "SANBN"
+    },
+    "Sanskrit Bible (NT) in Burmese Script (\u101e\u1010\u103b\u101d\u1031\u1012\u1038\u104a)": {
+        "id": "9449d4ad98193779-01",
+        "description": "Sanskrit Bible (NT) in Burmese Script (\u101e\u1010\u103b\u101d\u1031\u1012\u1038\u104a)",
+        "language": "Sanskrit",
+        "script": "Code for uncoded script",
+        "namelocal": "\u101e\u1010\u103b\u101d\u1031\u1012\u1038\u104a Sanskrit Bible (NT) in Burmese Script ()",
+        "abbreviation": "SANBU"
+    },
+    "Sanskrit Bible (NT) in Cologne Script (satyavEdaH|)": {
+        "id": "33b6449cacf22773-01",
+        "description": "Sanskrit Bible (NT) in Cologne Script (satyavEdaH|",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyavEdaH| Sanskrit Bible (NT) in Cologne Script",
+        "abbreviation": "SANCO"
+    },
+    "Sanskrit Bible (NT) in Gujarati Script (\u0ab8\u0aa4\u0acd\u0aaf\u0ab5\u0ac7\u0aa6\u0a83\u0964)": {
+        "id": "e9ea572977b4f504-01",
+        "description": "Sanskrit Bible (NT) in Gujarati Script (\u0ab8\u0aa4\u0acd\u0aaf\u0ab5\u0ac7\u0aa6\u0a83\u0964)",
+        "language": "Sanskrit",
+        "script": "Gujarati",
+        "namelocal": "\u0ab8\u0aa4\u0acd\u0aaf\u0ab5\u0ac7\u0aa6\u0a83\u0964 Sanskrit Bible (NT) in Gujarati Script",
+        "abbreviation": "SANGJ"
+    },
+    "Sanskrit Bible (NT) in Harvard-Kyoto Script (satyavedaH|)": {
+        "id": "89007ccbb2eb5187-01",
+        "description": "Sanskrit Bible (NT) in Harvard-Kyoto Script (satyavedaH|)",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyavedaH| Sanskrit Bible (NT) in Harvard-Kyoto Script",
+        "abbreviation": "SANHK"
+    },
+    "Sanskrit Bible (NT) in IAST Script (satyaveda\u1e25|)": {
+        "id": "0b07fcef627a2db2-01",
+        "description": "Sanskrit Bible (NT) in IAST Script (satyaveda\u1e25|)",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyaveda\u1e25| Sanskrit Bible (NT) in IAST Script",
+        "abbreviation": "SANIA"
+    },
+    "Sanskrit Bible (NT) in ISO Script (satyav\u0113da\u1e25|)": {
+        "id": "d4599ff3c6b97f3a-01",
+        "description": "Sanskrit Bible (NT) in ISO Script (satyav\u0113da\u1e25|)",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyav\u0113da\u1e25| Sanskrit Bible (NT) in ISO Script",
+        "abbreviation": "SANIS"
+    },
+    "Sanskrit Bible (NT) in ITRANS Script (satyavedaH|)": {
+        "id": "6bc5ae3d6dd9009a-01",
+        "description": "Sanskrit Bible (NT) in ITRANS Script (satyavedaH|)",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyavedaH| Sanskrit Bible (NT) in ITRANS Script",
+        "abbreviation": "SANIT"
+    },
+    "Sanskrit Bible (NT) in Kannada Script (\u0cb8\u0ca4\u0ccd\u0caf\u0cb5\u0cc7\u0ca6\u0c83\u0964)": {
+        "id": "c1f49ed98a65a544-01",
+        "description": "Sanskrit Bible (NT) in Kannada Script (\u0cb8\u0ca4\u0ccd\u0caf\u0cb5\u0cc7\u0ca6\u0c83\u0964)",
+        "language": "Sanskrit",
+        "script": "Kannada",
+        "namelocal": "\u0cb8\u0ca4\u0ccd\u0caf\u0cb5\u0cc7\u0ca6\u0c83\u0964 Sanskrit Bible (NT) in Kannada Script",
+        "abbreviation": "SANKA"
+    },
+    "Sanskrit Bible (NT) in Khmer Script (\u179f\u178f\u17d2\u1799\u179c\u17c1\u1791\u17c7\u17d4)": {
+        "id": "6bb8b0fa7aca67c6-01",
+        "description": "Sanskrit Bible (NT) in Khmer Script (\u179f\u178f\u17d2\u1799\u179c\u17c1\u1791\u17c7\u17d4)",
+        "language": "Sanskrit",
+        "script": "Code for uncoded script",
+        "namelocal": "\u179f\u178f\u17d2\u1799\u179c\u17c1\u1791\u17c7\u17d4 Sanskrit Bible (NT) in Khmer Script",
+        "abbreviation": "SANKH"
+    },
+    "Sanskrit Bible (NT) in Malayalam Script (\u0d38\u0d24\u0d4d\u0d2f\u0d35\u0d47\u0d26\u0d03\u0964)": {
+        "id": "119375d97b57cf04-01",
+        "description": "Sanskrit Bible (NT) in Malayalam Script (\u0d38\u0d24\u0d4d\u0d2f\u0d35\u0d47\u0d26\u0d03\u0964)",
+        "language": "Sanskrit",
+        "script": "Malayalam",
+        "namelocal": "\u0d38\u0d24\u0d4d\u0d2f\u0d35\u0d47\u0d26\u0d03\u0964 Sanskrit Bible (NT) in Malayalam Script",
+        "abbreviation": "SANML"
+    },
+    "Sanskrit Bible (NT) in Oriya Script (\u0b38\u0b24\u0b4d\u0b5f\u0b71\u0b47\u0b26\u0b03\u0964)": {
+        "id": "5a27fd2a2de187c8-01",
+        "description": "Sanskrit Bible (NT) in Oriya Script (\u0b38\u0b24\u0b4d\u0b5f\u0b71\u0b47\u0b26\u0b03\u0964)",
+        "language": "Sanskrit",
+        "script": "Oriya",
+        "namelocal": "\u0b38\u0b24\u0b4d\u0b5f\u0b71\u0b47\u0b26\u0b03\u0964 Sanskrit Bible (NT) in Oriya Script",
+        "abbreviation": "SANOR"
+    },
+    "Sanskrit Bible (NT) in Punjabi Script (\u0a38\u0a24\u0a4d\u0a2f\u0a35\u0a47\u0a26\u0a03\u0964)": {
+        "id": "07225eadadcb079a-01",
+        "description": "Sanskrit Bible (NT) in Punjabi Script (\u0a38\u0a24\u0a4d\u0a2f\u0a35\u0a47\u0a26\u0a03\u0964)",
+        "language": "Sanskrit",
+        "script": "Code for uncoded script",
+        "namelocal": "\u0a38\u0a24\u0a4d\u0a2f\u0a35\u0a47\u0a26\u0a03\u0964 Sanskrit Bible (NT) in Punjabi Script",
+        "abbreviation": "SANPN"
+    },
+    "Sanskrit Bible (NT) in Sinhala Script (\u0dc3\u0dad\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0d83\u0964)": {
+        "id": "2c2cf8df5a22a46e-01",
+        "description": "Sanskrit Bible (NT) in Sinhala Script (\u0dc3\u0dad\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0d83\u0964)",
+        "language": "Sanskrit",
+        "script": "Code for uncoded script",
+        "namelocal": "\u0dc3\u0dad\u0dca\u200d\u0dba\u0dc0\u0dda\u0daf\u0d83\u0964 Sanskrit Bible (NT) in Sinhala Script",
+        "abbreviation": "SANSI"
+    },
+    "Sanskrit Bible (NT) in Tamil Script (\u0bb8\u0ba4\u0bcd\u0baf\u0bb5\u0bc7\u0ba4\u00b3\u200b:\u0964)": {
+        "id": "143e0e03cf5b12ae-01",
+        "description": "Sanskrit Bible (NT) in Tamil Script (\u0bb8\u0ba4\u0bcd\u0baf\u0bb5\u0bc7\u0ba4\u00b3\u200b:\u0964)",
+        "language": "Sanskrit",
+        "script": "Tamil",
+        "namelocal": "\u0bb8\u0ba4\u0bcd\u0baf\u0bb5\u0bc7\u0ba4\u00b3\u200b:\u0964 Sanskrit Bible (NT) in Tamil Script",
+        "abbreviation": "SANTM"
+    },
+    "Sanskrit Bible (NT) in Telugu Script (\u0c38\u0c24\u0c4d\u0c2f\u0c35\u0c47\u0c26\u0c03\u0964)": {
+        "id": "aa146959e1d39b78-01",
+        "description": "Sanskrit Bible (NT) in Telugu Script (\u0c38\u0c24\u0c4d\u0c2f\u0c35\u0c47\u0c26\u0c03\u0964)",
+        "language": "Sanskrit",
+        "script": "Telugu",
+        "namelocal": "\u0c38\u0c24\u0c4d\u0c2f\u0c35\u0c47\u0c26\u0c03\u0964 Sanskrit Bible (NT) in Telugu Script",
+        "abbreviation": "SANTE"
+    },
+    "Sanskrit Bible (NT) in Thai Script (\u0e2a\u0e15\u0e3a\u0e22\u0e40\u0e27\u0e17:\u0e2f)": {
+        "id": "306d6ab1ca333a1e-01",
+        "description": "Sanskrit Bible (NT) in Thai Script (\u0e2a\u0e15\u0e3a\u0e22\u0e40\u0e27\u0e17:\u0e2f)",
+        "language": "Sanskrit",
+        "script": "Thai",
+        "namelocal": "\u0e2a\u0e15\u0e3a\u0e22\u0e40\u0e27\u0e17:\u0e2f Sanskrit Bible (NT) in Thai Script",
+        "abbreviation": "SANTH"
+    },
+    "Sanskrit Bible (NT) in Tibetan Script (\u0f66\u0f4f\u0fb1\u0f5d\u0f7a\u0f51\u0f7f\u0f0d)": {
+        "id": "018ff00d7f55cbc1-01",
+        "description": "Sanskrit Bible (NT) in Tibetan Script (\u0f66\u0f4f\u0fb1\u0f5d\u0f7a\u0f51\u0f7f\u0f0d)",
+        "language": "Sanskrit",
+        "script": "Tibetan",
+        "namelocal": "\u0f66\u0f4f\u0fb1\u0f5d\u0f7a\u0f51\u0f7f\u0f0d Sanskrit Bible (NT) in Tibetan Script",
+        "abbreviation": "SANTI"
+    },
+    "Sanskrit Bible (NT) in Urdu Script (\u0633\u064e\u062a\u0652\u06cc\u064e\u0648\u06cc\u062f\u064e\u062d\u06d4)": {
+        "id": "51b16e0b4b7c9825-01",
+        "description": "Sanskrit Bible (NT) in Urdu Script (\u0633\u064e\u062a\u0652\u06cc\u064e\u0648\u06cc\u062f\u064e\u062d\u06d4)",
+        "language": "Sanskrit",
+        "script": "Arabic",
+        "namelocal": "\u0633\u064e\u062a\u0652\u06cc\u064e\u0648\u06cc\u062f\u064e\u062d\u06d4 Sanskrit Bible (NT) in Urdu Script",
+        "abbreviation": "SANUR"
+    },
+    "Sanskrit Bible (NT) in Velthuis Script (satyaveda.h|)": {
+        "id": "9a875168ff4df1a3-01",
+        "description": "Sanskrit Bible (NT) in Velthuis Script (satyaveda.h|)",
+        "language": "Sanskrit",
+        "script": "Latin",
+        "namelocal": "satyaveda.h| Sanskrit Bible (NT) in Velthuis Script",
+        "abbreviation": "SANVE"
+    },
+    "Sanskrit NT in Devanagari": {
+        "id": "e8b40ccabe793c0d-01",
+        "description": "Sanskrit NT in Devanagari",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "namelocal": "\u0938\u0924\u094d\u092f\u0935\u0947\u0926\u0903\u0964 Sanskrit NT in Devanagari",
+        "abbreviation": "SAN-DN"
+    },
+    "Soli New Testament": {
+        "id": "31ce26b5803b75dd-01",
+        "description": "Soli New Testament 2018",
+        "language": "Soli",
+        "script": "Latin",
+        "namelocal": "Soli New Testament",
+        "abbreviation": "SBT"
+    },
+    "Sakachep New Testament": {
+        "id": "619fcff92275df23-01",
+        "description": "Sakachep New Testament 2017",
+        "language": "Sakachep",
+        "script": "Latin",
+        "namelocal": "Pathien Lekhabu Inthieng Chongtung Thar",
+        "abbreviation": "SAKNT"
+    },
+    "Caning Bible Translation": {
+        "id": "f95e2d9b384f8e6e-01",
+        "description": "Gospel of Luke",
+        "language": "Shatt",
+        "script": "Latin",
+        "namelocal": "Sorunu Kal\u00e4g na Ik\u00e4 Caning",
+        "abbreviation": "SHJ"
+    },
+    "Biblica\u00ae Open Shona Contemporary Bible": {
+        "id": "e8d99085dcb83ab5-01",
+        "description": "Bible",
+        "language": "Shona",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi",
+        "abbreviation": "OSCB"
+    },
+    "Reina Valera 1909": {
+        "id": "592420522e16049f-01",
+        "description": "Biblia Reina Valera 1909",
+        "language": "Spanish",
+        "script": "Latin",
+        "namelocal": "Reina Valera 1909",
+        "abbreviation": "RVR09"
+    },
+    "Spanish Bible, Palabla de Dios para ti": {
+        "id": "48acedcf8595c754-01",
+        "description": "common",
+        "language": "Spanish",
+        "script": "Latin",
+        "namelocal": "Palabla de Dios para ti",
+        "abbreviation": "spaPdDpt"
+    },
+    "The Holy Bible in Simple Spanish": {
+        "id": "b32b9d1b64b4ef29-01",
+        "description": "Common",
+        "language": "Spanish",
+        "script": "Latin",
+        "namelocal": "La Biblia en Espa\u00f1ol Sencillo",
+        "abbreviation": "spabes"
+    },
+    "The New Testament in Spanish, Free Bible Version": {
+        "id": "482ddd53705278cc-01",
+        "description": "common",
+        "language": "Spanish",
+        "script": "Latin",
+        "namelocal": "El Nuevo Testamento, Versi\u00f3n Biblia Libre",
+        "abbreviation": "VBL"
+    },
+    "Versi\u00f3n Biblia Libre": {
+        "id": "482ddd53705278cc-02",
+        "description": "Protestant",
+        "language": "Spanish",
+        "script": "Latin",
+        "namelocal": "Versi\u00f3n Biblia Libre",
+        "abbreviation": "VBL"
+    },
+    "Akukem Portions for DBL": {
+        "id": "2a65010324d677b6-01",
+        "description": null,
+        "language": "Akukem",
+        "script": "Latin",
+        "namelocal": "Mak Os\u0268risira Akaman Aghuu\u014b ko Iesus\u0268m Mb\u0268sevisir Gumasi",
+        "abbreviation": "Akg-MkAc"
+    },
+    "Serbian Bible": {
+        "id": "06995ce9cd23361b-01",
+        "description": "common",
+        "language": "Serbian",
+        "script": "Latin",
+        "namelocal": "Sveta Biblija",
+        "abbreviation": "srp1865"
+    },
+    "Susu Bible": {
+        "id": "bbeb583cd75c6356-01",
+        "description": "Bible",
+        "language": "Susu",
+        "script": "Latin",
+        "namelocal": "Soso Kitaabuie: Tawureta, Yabura, Inyila",
+        "abbreviation": "Susu"
+    },
+    "Susu Bible in Arabic Script": {
+        "id": "2d5220a02a7aaac6-01",
+        "description": "Protestant",
+        "language": "Susu",
+        "script": "Arabic",
+        "namelocal": "Ala xa Kitaabui Sosoe b\u025b",
+        "abbreviation": "AKS"
+    },
+    "Swedish Core Bible - expanded": {
+        "id": "fa4317c59f0825e0-01",
+        "description": "En expanderad \u00f6vers\u00e4ttning",
+        "language": "Swedish",
+        "script": "Latin",
+        "namelocal": "Svenska K\u00e4rnbibeln",
+        "abbreviation": "SKB"
+    },
+    "Biblica\u00ae Open Kiswahili Contemporary Version (Neno) 2015": {
+        "id": "611f8eb23aec8f13-01",
+        "description": "Protestant Bible",
+        "language": "Swahili",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Toleo Wazi la Neno: Biblia Takatifu",
+        "abbreviation": "ONEN"
+    },
+    "Biblica\u00ae Open Indian Tamil Contemporary Version": {
+        "id": "032ec262506b719f-01",
+        "description": "Holy Bible",
+        "language": "Tamil",
+        "script": "Tamil",
+        "namelocal": "Biblica\u00ae \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba8\u0bbf\u0bb2\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bae\u0b95\u0bbe\u0bb2 \u0baa\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+        "abbreviation": "OTCV"
+    },
+    "Indian Revised Version (IRV) Tamil - 2019": {
+        "id": "03a021185023710b-01",
+        "description": "Protestant Bible for all",
+        "language": "Tamil",
+        "script": "Tamil",
+        "namelocal": "\u0b87\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bbf\u0bb5\u0bc8\u0bb8\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc6\u0bb0\u0bcd\u0bb8\u0ba9\u0bcd (IRV) - \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "abbreviation": "IRVTam"
+    },
+    "New Testament in Tay": {
+        "id": "8e3b1a957009c6ca-01",
+        "description": "New Testament",
+        "language": "Tai",
+        "script": "Latin",
+        "namelocal": "Jisas Klays Takaw Teplep Ne",
+        "abbreviation": "TayNT"
+    },
+    "Indian Revised Version (IRV) Telugu - 2019": {
+        "id": "5b835ce16a1703ff-01",
+        "description": "Bible for all",
+        "language": "Telugu",
+        "script": "Telugu",
+        "namelocal": "\u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c3f\u0c35\u0c48\u0c1c\u0c4d\u0c21\u0c4d \u0c35\u0c46\u0c30\u0c4d\u0c37\u0c28\u0c4d (IRV) - \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 -2019",
+        "abbreviation": "IRVTel"
+    },
+    "Tagin New Testament": {
+        "id": "4e901dfea8624ef8-01",
+        "description": "Tagin New Testament",
+        "language": "Tagin",
+        "script": "Latin",
+        "namelocal": "ANWNV GAMLV",
+        "abbreviation": "TAG"
+    },
+    "Thai KJV": {
+        "id": "2eb94132ad61ae75-01",
+        "description": "Protestant",
+        "language": "Thai",
+        "script": "Thai",
+        "namelocal": "\u0e1e\u0e23\u0e30\u0e04\u0e31\u0e21\u0e20\u0e35\u0e23\u0e4c\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\u0e09\u0e1a\u0e31\u0e1a KJV",
+        "abbreviation": "KJV"
+    },
+    "Tsakhur": {
+        "id": "00cdf9001d68edfa-01",
+        "description": "OT selections (Lifes of Prophets) and NT portions (Matthew, James, some Luke parables, Gospel of John) in Tsakhur",
+        "language": "Tsakhur",
+        "script": "Latin",
+        "namelocal": "Yiqsum",
+        "abbreviation": "TKR"
+    },
+    "God's Word in Toma": {
+        "id": "30cb581bcc911c45-01",
+        "description": null,
+        "language": "Toma",
+        "script": "Latin",
+        "namelocal": "GALA Daawoo Z\u025b\u028b\u025bi",
+        "abbreviation": "GDZ"
+    },
+    "Tongan Revised West Translation": {
+        "id": "25210406001d9aae-01",
+        "description": "The Holy Bible in Tongan, Revised West Translation",
+        "language": "Tonga (Tonga Islands)",
+        "script": "Latin",
+        "namelocal": "KO E TOHI TAPU K\u0100TOA",
+        "abbreviation": "tonRWV"
+    },
+    "Biblica\u00ae Open Tswana Living New Testament": {
+        "id": "69e6826f010ee12a-01",
+        "description": "New Testament",
+        "language": "Tswana",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Open Lefoko: La Botshelo Kgolagano e Ntsha",
+        "abbreviation": "OLEF"
+    },
+    "Tutsa New Testament": {
+        "id": "29d55810bbb2fbcd-01",
+        "description": "New Testament in Tutsa",
+        "language": "Tutsa Naga",
+        "script": "Latin",
+        "namelocal": "ESA LEEDAP Ena Banlam",
+        "abbreviation": "TUT"
+    },
+    "Biblica\u00ae Open Akuapem Twi Contemporary Bible 2020": {
+        "id": "b6aee081108c0bc6-01",
+        "description": "Bible",
+        "language": "Twi",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae Wonhia \u025bho kwamma nhoma Akuapem Twi Nkwa As\u025bm",
+        "abbreviation": "OAKCB"
+    },
+    "Biblica\u00ae Open Asante Twi Contemporary Bible 2020": {
+        "id": "18f6cf27f7b43297-01",
+        "description": "Biible",
+        "language": "Twi",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae W\u0254nhia \u025bho kwamma nwoma Asante Twi Nkwa As\u025bm",
+        "abbreviation": "OASCB"
+    },
+    "Biblica\u00ae Open New Ukrainian Translation 2022": {
+        "id": "6c696cd1d82e2723-04",
+        "description": "New Testament",
+        "language": "Ukrainian",
+        "script": "Cyrillic",
+        "namelocal": "\u0411\u0456\u0431\u043b\u0456\u043a\u0430 \u00ae \u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u041d\u043e\u0432\u0438\u0439 \u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e 2022",
+        "abbreviation": "ONPU"
+    },
+    "The New Testament in Munda Language": {
+        "id": "95947b59d0434ae6-01",
+        "description": "The New Testament in Munda Language, 2020",
+        "language": "Munda",
+        "script": "Oriya",
+        "namelocal": "\u0b2a\u0b3e\u0b30\u0b4d\u200c\u0b2e\u0b47\u0b36\u0b4d\u0b71\u0b3e\u0b30\u0b4d\u200c\u0b06\u0b03 \u0b1c\u0b40\u0b28\u0b3f\u0b26\u0b4d\u200c \u0b2c\u0b3e\u0b1a\u0b3e\u0b28\u0b4d\u200c, \u0b28\u0b3e\u0b71\u0b3e \u0b28\u0b3f\u0b5f\u0b3e\u0b2e\u0b4d\u200c",
+        "abbreviation": "NTRuu20"
+    },
+    "Indian Revised Version (IRV) Urdu - 2019": {
+        "id": "de0270810140edf9-01",
+        "description": "Urdu Bible for All",
+        "language": "Urdu",
+        "script": "Devanagari",
+        "namelocal": "\u0907\u0902\u0921\u093f\u092f\u0928 \u0930\u093f\u0935\u093e\u0907\u091c\u094d\u0921 \u0935\u0930\u094d\u091c\u0928 (IRV) \u0909\u0930\u094d\u0926\u0942 - 2019",
+        "abbreviation": "IRVUrd"
+    },
+    "Urdu Geo Version (Hindi Script)": {
+        "id": "3c6b77ab417420c5-01",
+        "description": "common",
+        "language": "Urdu",
+        "script": "Devanagari",
+        "namelocal": "\u0915\u093f\u0924\u093e\u092c\u0947-\u092e\u0941\u0915\u093c\u0926\u094d\u0926\u0938",
+        "abbreviation": "urdgvh"
+    },
+    "Urdu Geo Version (Roman Script)": {
+        "id": "4b2019a039084853-01",
+        "description": "Common",
+        "language": "Urdu",
+        "script": "Latin",
+        "namelocal": "Kitab-i Muqaddas",
+        "abbreviation": "urdgvr"
+    },
+    "Urdu Geo Version, Urdu Script": {
+        "id": "2a1480cfb6f181d7-01",
+        "description": "Common",
+        "language": "Urdu",
+        "script": "Code for uncoded script",
+        "namelocal": "\u06c1\u0648\u0644\u06cc \u0628\u0627\u0626\u0628\u0644 \u06a9\u0627 \u0627\u0631\u062f\u0648 \u062c\u06cc\u0648 \u0648\u0631\u0698\u0646",
+        "abbreviation": "urdgvu"
+    },
+    "Sob Jonah and Luke": {
+        "id": "e01f11e9b4b8e338-01",
+        "description": "Sob Portions 15",
+        "language": "Sop",
+        "script": "Latin",
+        "namelocal": "Profet Yonab / Dora Nama Lukede Feiaga",
+        "abbreviation": "SobP15"
+    },
+    "The Bible in Vidunda": {
+        "id": "c2d40ebca6db1ec5-01",
+        "description": "New Testament, Pentateuch",
+        "language": "Vidunda",
+        "script": "Latin",
+        "namelocal": "Ilagano lya Katali, Ilagano Linyale kwa Wanhu Weng\u2019ha",
+        "abbreviation": "Vidunda"
+    },
+    "Biblica\u00ae Open Vietnamese Contemporary Bible 2015": {
+        "id": "5cc7093967a0a392-01",
+        "description": "Protestant Bible",
+        "language": "Vietnamese",
+        "script": "Code for inherited script",
+        "namelocal": "Biblica\u00ae Thi\u00ean Ban Kinh Th\u00e1nh Hi\u1ec7n \u0110\u1ea1i",
+        "abbreviation": "OVCB"
+    },
+    "Vietnamese Bible (1934)": {
+        "id": "1b878de073afef07-01",
+        "description": "common",
+        "language": "Vietnamese",
+        "script": "Latin",
+        "namelocal": "Kinh Th\u00e1nh",
+        "abbreviation": "vie1934"
+    },
+    "Ngoni New Testament": {
+        "id": "9d34f37a5e8e0bf5-01",
+        "description": "Ngoni New Testament 2020",
+        "language": "Ngoni (Tanzania)",
+        "script": "Latin",
+        "namelocal": "Ngoni New Testament",
+        "abbreviation": "NNT2020"
+    },
+    "Yalunka Bible": {
+        "id": "afe8f67d8ba9025c-01",
+        "description": "Yalunka Bible",
+        "language": "Yalunka",
+        "script": "Latin",
+        "namelocal": "Kisin Kiraan Kitabuna",
+        "abbreviation": "Yalunka"
+    },
+    "Yao New Testament": {
+        "id": "6fc8bb188318063d-01",
+        "description": "New Testament in the Yao language of Tanzania 2018",
+        "language": "Yao",
+        "script": "Latin",
+        "namelocal": "Lilangano lya Sambano",
+        "abbreviation": "YNT2018"
+    },
+    "Yapese Bible": {
+        "id": "8a448a0135a6a70a-01",
+        "description": "common",
+        "language": "Yapese",
+        "script": "Latin",
+        "namelocal": "Bible Ni Thothup",
+        "abbreviation": "yap"
+    },
+    "Biblica\u00ae Open Yoruba Contemporary Bible 2017": {
+        "id": "b8d1feac6e94bd74-01",
+        "description": "Protestant Bible",
+        "language": "Yoruba",
+        "script": "Latin",
+        "namelocal": "Biblica\u00ae n\u00ed oore \u1ecd\u0300f\u1eb9\u0301 l\u00e1ti lo B\u00edb\u00e9l\u00ec M\u00edm\u1ecd\u0301 n\u00ed \u00c8d\u00e8 Yor\u00f9b\u00e1 \u00d2de-\u00d2n\u00ed\u2122",
+        "abbreviation": "OYCB"
+    },
+    "The New Testament in Zaramo": {
+        "id": "7e7a704dd32c4280-01",
+        "description": "New Testament in Zaramo",
+        "language": "Zaramo",
+        "script": "Latin",
+        "namelocal": "Lagano da Isambi da Mndewa na Mkombola Wetu Yesu Kilisto",
+        "abbreviation": "Kizalamo"
+    },
+    "Zaramo Bible": {
+        "id": "828bd246c8dfd883-01",
+        "description": "Zaramo Bible",
+        "language": "Zaramo",
+        "script": "Latin",
+        "namelocal": "Bibilia ya Kizalamo",
+        "abbreviation": "Kizalamo"
+    },
+    "The New Testament in Zigua": {
+        "id": "c9f3cf58d557a9f3-01",
+        "description": "Zigua NT",
+        "language": "Zigua",
+        "script": "Roman",
+        "namelocal": "Lagano hya",
+        "abbreviation": "ZiBT"
+    }
+}

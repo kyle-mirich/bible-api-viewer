@@ -1,6 +1,6 @@
 import json
 import urllib
-from bible_helper import BASE_URL, auto_correct_bible_id,get_bible_id,get_close_matches,bible_data, abbreviations_dict, request_data, normalize_book_name,validate_chapter_and_verse_format
+from scripts.bible_helper import BASE_URL, auto_correct_bible_id,get_bible_id,get_close_matches,bible_data, abbreviations_dict, request_data, normalize_book_name,validate_chapter_and_verse_format
 import requests
 import streamlit as st
 

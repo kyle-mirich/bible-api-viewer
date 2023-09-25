@@ -11,8 +11,8 @@ BASE_URL = "https://api.scripture.api.bible/v1"
 
 # Construct the paths to the files
 current_directory = os.path.dirname(os.path.abspath(__file__))
-bible_data_path = os.path.join(current_directory, '..', '..', 'reference-tools', 'bible-id.json')
-abbreviations_path = os.path.join(current_directory, '..', '..', 'reference-tools', 'abbreviations.json')
+bible_data_path = 'data/bible_id.json'
+abbreviations_path = 'data/abbreviations.json'
 
 # Loading the Bible data from 'bible-id.json'
 with open(bible_data_path, 'r', encoding='utf-8') as file:

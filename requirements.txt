@@ -2,5 +2,3 @@ bs4
 streamlit
 requests
 tenacity
-difflib
-os
