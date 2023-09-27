@@ -214,7 +214,7 @@ def main():
             selected_chapter = st.selectbox("Select a Chapter:", chapter_numbers, index=default_chapter_index)
 
             # Step 4: Display format options
-            display_format = st.radio('Display Format:', ('Chapter (Paragraph View)', 'Verse by Verse'))
+            #display_format = st.radio('Display Format:', ('Chapter (Paragraph View)', 'Verse by Verse'))
 
             # Step 5: Fetch and Display Chapter Text
             if selected_chapter:
@@ -225,14 +225,14 @@ def main():
                     formatted_text = format_chapter_text(chapter_text_data['data']['content'])
 
         # Cross-reference expander
-        with st.expander("Cross References", expanded=True):
+        with st.expander("Cross References", expanded=False):
             st.subheader(f"Cross References for {selected_book} Chapter {selected_chapter}")
             chapter_cross_refs = custom_search_cross_ref(selected_book_id, selected_chapter, cross_ref_data)
             
             if chapter_cross_refs:
                 # Search Box
-                search_term = st.text_input("Search for a verse:", "")
-                
+                #search_term = st.text_input("Search for a verse:", "")
+                search_term =""
                 # Grid Layout for Verses
                 filtered_verses = [verse for verse in chapter_cross_refs.keys() if search_term.lower() in verse.lower()]
                 for i in range(0, len(filtered_verses), 3):
