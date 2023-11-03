@@ -12,6 +12,8 @@ from scripts.bible_api_util import (
     get_specific_verse_in_bible
 )
 
+with st.sidebar:
+    st.markdown("Powered by [API.Bible](https://scripture.api.bible/)")
 
 
 # Load cross-reference data
