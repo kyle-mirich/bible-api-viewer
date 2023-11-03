@@ -11,7 +11,7 @@ from scripts.bible_api_util import (
     request_data,
     get_specific_verse_in_bible
 )
-
+st.set_page_config(page_title='Bible Viewer',page_icon= "📖")
 with st.sidebar:
     st.markdown("Powered by [API.Bible](https://scripture.api.bible/)")
 
